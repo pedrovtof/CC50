@@ -29,7 +29,7 @@ else
                    cout<<degrau;
                 }
 
-                    cout<<espacamento;
+                    cout<<espacamento<<espacamento;
 
                 for (int q = 1;q<=i;q++)
                     {
